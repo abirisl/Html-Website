@@ -1,0 +1,14 @@
+ul{
+    border-top: lightsalmon;
+    border-style:solid;
+    border-color: lime;
+    background-color:maroon;
+}
+li{
+    color:mediumturquoise;
+}
+.logo{
+    color:mediumvioletred;
+    font-size: 50px;
+    text-align:left;
+}
